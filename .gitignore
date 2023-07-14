@@ -1,3 +1,8 @@
+
+# pdf 파일을 제외 
+*.pdf
+
+
 # Compiled class file
 *.class
 
